@@ -7,7 +7,7 @@
 
 variable "prefix" {
    type = string
-   default     = "hashi"
+   default     = "hashi10"
 }
 
 variable "region" {
